@@ -1,0 +1,29 @@
+# --- Web framework ---
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.18
+
+# --- Config & validation ---
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# --- LLM / embedding providers ---
+openai==1.57.4
+anthropic==0.40.0
+
+# --- Vector stores ---
+chromadb==0.5.23
+# pinecone-client is optional; uncomment if VECTOR_BACKEND=pinecone
+# pinecone-client==5.0.1
+
+# --- Document loading ---
+pypdf==5.1.0
+beautifulsoup4==4.12.3
+httpx==0.28.1
+
+# --- Tokenization ---
+tiktoken==0.8.0
+
+# --- Dev / test ---
+pytest==8.3.4
+pytest-asyncio==0.24.0
