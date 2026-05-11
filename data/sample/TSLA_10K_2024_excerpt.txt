@@ -1,0 +1,66 @@
+TESLA, INC.
+Form 10-K Excerpt — Fiscal Year 2024
+(Synthetic sample for AlphaIQ testing. Not actual SEC content.)
+
+ITEM 1. BUSINESS
+
+Tesla, Inc. ("Tesla", "the Company") designs, develops, manufactures,
+sells, and leases high-performance fully electric vehicles and energy
+generation and storage systems, and offers services related to its
+products. The Company operates in two reportable segments: Automotive
+and Energy generation and storage.
+
+In fiscal 2024, total revenue was approximately $97 billion, broadly
+flat versus the prior year. Automotive revenue declined low-single-
+digit percent on lower average selling prices, while Energy generation
+and storage revenue grew over 60 percent year over year, driven by
+Megapack deployments.
+
+ITEM 1A. RISK FACTORS
+
+The Company operates in a highly competitive automotive market. Legacy
+automakers and new entrants, particularly in China, have accelerated
+electric vehicle programs. Pricing pressure has compressed automotive
+gross margin throughout the year.
+
+The Company's growth strategy depends substantially on the development
+and deployment of autonomy technology, including Full Self-Driving and
+robotaxi services. There is uncertainty about timelines, regulatory
+approval, and ultimate performance of these technologies. Delays or
+adverse outcomes could materially impact long-term valuation
+assumptions.
+
+Concentration risk arises from the Company's dependence on a small
+number of vehicle programs and from manufacturing operations
+concentrated in a limited number of facilities. Disruption — whether
+from labor, supply chain, fire, or natural disaster — could
+significantly impact production and deliveries.
+
+Key person risk: the Company's operations and strategic direction are
+substantially dependent on its Chief Executive Officer, whose
+attention is divided among multiple businesses.
+
+Regulatory risk: vehicle safety investigations, including ongoing
+inquiries by the National Highway Traffic Safety Administration into
+driver-assist features, could result in recalls, fines, or restrictions
+on product features.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Automotive gross margin (excluding regulatory credits) was
+approximately 17 percent for the year, a decline of roughly 300 basis
+points versus the prior year. The compression reflects lower average
+selling prices, partially offset by lower input costs and improved
+manufacturing efficiency at newer factories.
+
+Energy generation and storage gross margin expanded meaningfully on
+higher Megapack volumes and stronger pricing.
+
+R&D spending grew approximately 19 percent, reflecting accelerated
+investment in next-generation vehicle platforms, autonomy, and
+artificial intelligence training infrastructure.
+
+Management has stated that vehicle volume growth in 2025 will depend
+on the launch cadence of new, lower-cost vehicle platforms, and that
+energy storage is expected to remain the fastest-growing business
+segment.

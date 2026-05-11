@@ -1,0 +1,66 @@
+APPLE INC.
+Form 10-K Excerpt — Fiscal Year 2024
+(Synthetic sample for AlphaIQ testing. Not actual SEC content.)
+
+ITEM 1. BUSINESS
+
+Apple Inc. ("Apple", "the Company") designs, manufactures, and markets
+smartphones, personal computers, tablets, wearables, and accessories,
+and sells a variety of related services. The Company's products
+include iPhone, Mac, iPad, and Wearables, Home and Accessories.
+Services include advertising, AppleCare, cloud, digital content,
+payment, and other services.
+
+In fiscal 2024, total net sales were approximately $391 billion,
+representing year-over-year growth of approximately 2 percent.
+Services revenue grew 13 percent and reached a record high, while
+iPhone revenue was roughly flat. Wearables, Home and Accessories
+declined modestly due to a challenging compare period.
+
+ITEM 1A. RISK FACTORS
+
+Macroeconomic conditions, including inflation, recession, foreign
+currency volatility, and shifts in consumer spending, could materially
+adversely affect the Company's business and results of operations.
+
+Global and regional economic conditions, including persistently
+elevated interest rates and ongoing geopolitical tensions, have
+impacted and could continue to impact demand for the Company's
+products and services.
+
+The Company faces substantial competition in markets characterized by
+rapid technological change. Competitors include companies with
+comparable or greater scale, resources, and brand recognition.
+
+Single-supplier and limited-source component dependencies create
+supply concentration risk. Disruption at a key supplier or in a key
+geography could impair the Company's ability to manufacture and ship
+products on schedule.
+
+The Company is subject to evolving regulatory frameworks, including
+antitrust scrutiny of its App Store practices in the European Union
+and in the United States, and ongoing privacy and data protection
+regulation. Adverse regulatory outcomes could require changes to
+business models or result in fines and other penalties.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Gross margin for the year was 46.2 percent, an increase of
+approximately 130 basis points compared to the prior year. The
+improvement was driven primarily by higher Services mix and favorable
+cost structure on iPhone, partially offset by adverse foreign exchange
+movements.
+
+Operating expenses were $57.5 billion, up 6 percent year over year,
+reflecting continued investment in research and development including
+generative AI capabilities and silicon engineering. R&D spending grew
+9 percent.
+
+The Company returned $110 billion to shareholders during fiscal 2024
+through share repurchases and dividends, and the Board authorized an
+additional $100 billion repurchase program.
+
+Management expects services revenue to continue growing at a double-
+digit pace in fiscal 2025, with iPhone unit demand being a function
+of new device cycle reception and the rollout of Apple Intelligence
+features to additional markets.

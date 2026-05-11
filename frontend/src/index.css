@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-ink-950 text-bone-100 font-sans antialiased;
+    background-image:
+      radial-gradient(
+        ellipse at top left,
+        rgba(127, 227, 74, 0.04) 0%,
+        transparent 50%
+      ),
+      radial-gradient(
+        ellipse at bottom right,
+        rgba(200, 193, 173, 0.025) 0%,
+        transparent 50%
+      ),
+      radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.03) 1px, transparent 0);
+    background-size: auto, auto, 24px 24px;
+    background-attachment: fixed;
+  }
+
+  /* Refined scrollbars */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  /* Tighter selection */
+  ::selection {
+    background: rgba(168, 255, 96, 0.25);
+    color: #fbfaf6;
+  }
+}
+
+@layer components {
+  /* Hairline divider used throughout */
+  .hairline {
+    @apply border-t border-ink-700/60;
+  }
+
+  /* Inline citation marker — looks like [3] but clickable */
+  .citation-mark {
+    @apply inline-flex items-baseline px-[5px] py-[1px] mx-[1px] rounded text-[10.5px]
+           font-mono font-medium bg-signal-500/15 text-signal-400
+           border border-signal-500/30 cursor-pointer transition-all
+           hover:bg-signal-500/25 hover:border-signal-500/60 hover:-translate-y-px;
+  }
+
+  /* Glassy panel surface */
+  .panel {
+    @apply bg-ink-900/70 backdrop-blur-xl border border-ink-700/60 rounded-lg;
+  }
+
+  /* Ticker chip */
+  .ticker-chip {
+    @apply inline-flex items-center px-2 py-0.5 rounded text-[10px] font-mono
+           tracking-wider uppercase bg-bone-100/10 text-bone-200
+           border border-bone-100/15;
+  }
+
+  /* Severity pill */
+  .severity-low {
+    @apply bg-risk-low/15 text-risk-low border-risk-low/30;
+  }
+  .severity-medium {
+    @apply bg-risk-medium/15 text-risk-medium border-risk-medium/30;
+  }
+  .severity-high {
+    @apply bg-risk-high/15 text-risk-high border-risk-high/30;
+  }
+
+  /* Shimmer for loading skeletons */
+  .shimmer {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.03) 0%,
+      rgba(255, 255, 255, 0.08) 50%,
+      rgba(255, 255, 255, 0.03) 100%
+    );
+    background-size: 200% 100%;
+    @apply animate-shimmer;
+  }
+}
